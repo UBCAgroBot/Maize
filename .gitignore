@@ -1,0 +1,25 @@
+# Ignore all folders
+Images/
+datasets/
+maize_dataset/
+new_test_set/
+new_train_set/
+new_validation_set/
+runs/
+train/
+wandb/
+weights_from_sockeye/
+xml_data/
+
+# Ignore .pt, .onnx, and .zip files
+*.pt
+*.onnx
+*.zip
+
+# Optional: Ignore all image files
+*.png
+*.jpg
+*.xml
+
+# Ignore system files
+train_set.zip:Zone.Identifier
