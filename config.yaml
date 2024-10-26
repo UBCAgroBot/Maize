@@ -1,4 +1,4 @@
-path: /home/husan/Agrobot-maize_detection
+path: /Users/cameronlee/Documents/agrobots/Maize
 train: new_train_set # relative to path
 val: new_validation_set # relative to path
 

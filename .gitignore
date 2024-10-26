@@ -10,7 +10,10 @@ train/
 wandb/
 weights_from_sockeye/
 xml_data/
-
+10photos/
+10results/
+yolo-Weights/
+**.cache
 # Ignore .pt, .onnx, and .zip files
 *.pt
 *.onnx
